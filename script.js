@@ -5,7 +5,6 @@ const Modal = {
         document
         .querySelector('.modal-overlay')
         .classList.add('active')
-
     },
     close() {
         //fechar o modal

@@ -2,7 +2,7 @@
 :root {
     --dark-blue: #363f5f;
     --green: #49AA26;
-    --light-green: #3dd705;
+    --light-green: #7fe05c;
     --red: #e92929;
 }
 
@@ -123,7 +123,7 @@ header {
     padding: 1.5rem 2rem;
     border-radius: 0.25rem;
 
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
 
     color: var(--dark-blue);
 }
